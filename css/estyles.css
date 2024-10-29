@@ -108,12 +108,12 @@ h3{
    
 }
 
-/* mobile phone */
+/* mobile phone 
 @media all and (max-width: 768px) {
     #divContent{
      overflow:auto; 
     }
-}
+}*/
 
 #txtrect{
     padding-top: 10%;
